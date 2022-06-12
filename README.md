@@ -19,10 +19,10 @@
                 <a href="/resume/">RESUME</a>
                 <a href="/contact/">CONTACT</a>
         </nav>
-      <title>About</title>
+     <title>About</title>
     </head>
      <body>
-         <h1>My Story a{colour-blue;} a{font-lexend:}
+         <h1>My Story
          <p>This is a paragraph.</p>
      </div>
      </body>
