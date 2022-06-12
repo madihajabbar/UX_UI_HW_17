@@ -1,8 +1,8 @@
-,!DOCTYPE html>
+<!DOCTYPE html>
 <html> 
     <head>
     <style>
-    <div> 
+    div> 
         {background-color: lightblue;
         text-align: center;}
     
@@ -22,7 +22,7 @@
       <title>About</title>
     </head>
      <body>
-         <h1>MY STORY</h1> a{colour-blue;} a{font-lexend:}
+         <h1>My Story</h1> a{colour-blue;} a{font-lexend:}
          <p>This is a paragraph.</p>
      </div>
      </body>
