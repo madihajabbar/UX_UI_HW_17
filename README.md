@@ -1,17 +1,10 @@
 <!DOCTYPE html>
-<html> 
-    <head>
-    <style>
-    div> 
-        {background-color: lightblue;
-        text-align: center;}
-    
-    </style>
-    <img src="wallpaper" alt="About" width="1512" 
-    height="939">
+<html>
+<head>
+  <title>ABOUT</title>
+</head>
+   
 
-        <img src="Logo.PNG" alt=""mj"
-        width="91"
 <nav>
             <a href="/home/">HOME</a>
                 <a href="/about/">ABOUT</a>
@@ -19,12 +12,20 @@
                 <a href="/resume/">RESUME</a>
                 <a href="/contact/">CONTACT</a>
         </nav>
-     <title>About</title>
     </head>
+     <img src="wallpaper" alt="wallpaper" width="1512" height="939">
+        <img src="logo" alt="logo" width="91" height="88">
+        <picture>
+
+  <img src="wallpaper" alt="wallpaper" style="width:auto;">
+</picture>
      <body>
          <h1>My Story
          <p>This is a paragraph.</p>
      </div>
      </body>
-     <button>See My Work</button>
+     <button type="button">SEE MY WORK!</button>
+     <footer>
+  <p><a href="mailto:hege@example.com">madihajabbar@live.com</a></p>
+</footer>
  </html>
