@@ -22,7 +22,7 @@
       <title>About</title>
     </head>
      <body>
-         <h1>This is a heading</h1> a{colour-blue;} a{font-lexend:}
+         <h1>MY STORY</h1> a{colour-blue;} a{font-lexend:}
          <p>This is a paragraph.</p>
      </div>
      </body>
